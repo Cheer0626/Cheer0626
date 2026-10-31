@@ -1,16 +1,13 @@
-## Hi there 👋
+# 你好，我是CHEER
 
-<!--
-**Cheer0626/Cheer0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 我是谁
+我是一名软件工程专业学生。目前主要接触的技术/语言包括Python、JavaScript、c++/c。
 
-Here are some ideas to get you started:
+## 我正在学什么
+最近正在学习 [Web 前端基础（HTML/CSS/JS）、Python 数据分析、Git 版本控制]。目前正在尝试 [描述一个小练习或项目，例如：做一个个人主页、写一个简单的计算器]。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 本课程目标
+通过这门课程，我希望能够：
+1. 掌握 [具体技能，例如：使用 Git 管理代码版本]。
+2. 独立完成 [具体目标，例如：一个可运行的小项目]。
+3. 养成 [具体习惯，例如：定期记录学习笔记并提交到 GitHub]。
